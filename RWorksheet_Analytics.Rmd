@@ -129,6 +129,7 @@ newdata <- data.frame(
 )
 newdata
 ```
+
 3.
 ```{r}
 library(ggplot2)
